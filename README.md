@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uk4sz3nk0
-- 📖 I'm in the second year of Computer Science
+- 📖 I'm a student in the second year of Computer Science
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on ...
