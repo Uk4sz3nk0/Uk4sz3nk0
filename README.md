@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uk4sz3nk0
 - 📖 I'm a student in the second year of Computer Science
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++ and Java with Spring.
+- 🌱 I’m currently learning Spring framework and I'm practicing Java
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
