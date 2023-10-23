@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Uk4sz3nk0
-- 📖 I'm a student in the third year of Computer Science
+- 👋 Hi, I’m Łukasz Wodniak @Uk4sz3nk0
+- 📖 I'm a student in the fourth year of Computer Science
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Spring framework and I'm practicing Java
 - 🚀 In the future, I want to learn Dart language and Flutter, Unreal Engine 5
