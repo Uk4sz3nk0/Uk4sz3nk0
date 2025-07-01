@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Łukasz Wodniak @Uk4sz3nk0
-- 📖 I'm in the second year of my master's degree of Computer Science with Cybersecurity specialization
-- 👀 I’m interested in programming, cars and games and little bit gamedev
-- 🖥️ I'm working as Full-Stack Web Developer for 2,5 years in small company in Kraków (but sometimes as Android mobile developer too)
-- 🧑‍💻 The technologies I work in and want to continually develop are Java and Kotlin, Spring Framework, Angular
-- 🐍 I know basics of Python, PHP, Flutter and Dart
+- 🖥️ I’m a Full-Stack Web Developer with 3+ years of experience working at a small company in Kraków. Technologies I’ve used include Java, Kotlin, Spring Boot, Angular, PostgreSQL, Android SDK, PHP, JavaScript, HTML, and CSS
+- 🧑‍💻 I’m currently focusing on Java, Kotlin, Spring Boot, and Angular, and I’m eager to further develop my skills in these areas. In the future, I want to learn cloud technologies like GCP and AWS, explore NoSQL databases, and deepen my knowledge of Microservice Architecture
+- 🌍 At the moment, I’m based in Kraków / Wadowice, but starting September I’ll be moving to Lublin 
+- 📖 I’m in my second year of a Master’s degree in Computer Science, specializing in Cybersecurity
+- 📖 Starting this September, I will also begin studies in Lublin to become a Medical Sterilisation Technician — mainly to keep my student status ;p
+- 👀 Outside of programming, I’m interested in cars (and collecting model cars), the history of WWI and WWII, and a bit of agriculture
+<!--- 🐍 I know basics of Python, PHP, Flutter and Dart -->
 
 <!-- - 🌱 I’m currently learning Spring framework and I'm practicing Java
 - 🚀 In the future, I want to learn Dart language and Flutter, Unreal Engine 5 -->
