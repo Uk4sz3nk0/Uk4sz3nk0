@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Łukasz Wodniak @Uk4sz3nk0
-- 🖥️ I’m a Full-Stack Web Developer with 3+ years of experience working at a small company in Kraków. Technologies I’ve used include Java, Kotlin, Spring Boot, Angular, PostgreSQL, Android SDK, PHP, JavaScript, HTML, and CSS
-- 🧑‍💻 I’m currently focusing on Java, Kotlin, Spring Boot, and Angular, and I’m eager to further develop my skills in these areas. In the future, I want to learn cloud technologies like GCP and AWS, explore NoSQL databases, and deepen my knowledge of Microservice Architecture
-- 🌍 At the moment, I’m based in Kraków / Wadowice, but starting September I’ll be moving to Lublin 
-- 📖 I’m in my second year of a Master’s degree in Computer Science, specializing in Cybersecurity
-- 📖 Starting this September, I will also begin studies in Lublin to become a Medical Sterilisation Technician — mainly to keep my student status ;p
+- 🖥️ I’m a Full-Stack Developer with 3+ years of experience. Technologies I’ve used include Java, Kotlin, Spring Boot, Angular, PostgreSQL, Android SDK, JavaScript, HTML, and CSS
+- 📖 I hold a master's degree in computer science with a specialisation in cybersecurity.
 - 👀 Outside of programming, I’m interested in cars (and collecting model cars), the history of WWI and WWII, and a bit of agriculture
 <!--- 🐍 I know basics of Python, PHP, Flutter and Dart -->
 
